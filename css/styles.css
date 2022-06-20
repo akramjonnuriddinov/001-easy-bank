@@ -322,6 +322,16 @@ img {
     margin-right: 30px;
 }
 
+.articles__title {
+    font-size: 40px;
+    line-height: 64px;;
+    letter-spacing: -0.71px;
+    font-weight: 100;
+    color: var(--text-color-dark);
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
 .articles__img {
     width: 255px;
     height: 200px;
